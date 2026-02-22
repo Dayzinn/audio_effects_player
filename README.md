@@ -1,11 +1,15 @@
 ![Python 3.8-3.12](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
+banner = """
     _   _____  _____  ____  ____  ____ 
    / | / /   |/___ / / __ \/ __ \/ __ \\
   /  |/ / /| |  |_ \/ / / / / / / / / /
  / /|  / ___ | __/ / /_/ / /_/ / /_/ / 
 /_/ |_/_/  |_/____/\____/\____/\____/  
+"""
+print(banner)
 
 # Audio Effects Player
 Real-time Python audio processor for 432/528 Hz tuning + Melda & TDR effects (VB-Cable + Voicemeeter)
