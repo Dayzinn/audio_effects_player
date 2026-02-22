@@ -1,1 +1,53 @@
-(ignore venv/, pycache/, *.pyc, etc.)
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Project-specific (add anything else you don't want in git)
+*.log
+*.tmp
+*.bak
+audio_effects_player.log
