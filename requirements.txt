@@ -1,0 +1,1 @@
+ This file lists all necessary Python libraries. Users can install them easily with pip install -r requirements.txt
