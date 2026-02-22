@@ -1,1 +1,1 @@
-venv/
+(ignore venv/, pycache/, *.pyc, etc.)
