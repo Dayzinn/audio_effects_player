@@ -1,5 +1,5 @@
 # Audio Effects Player
-Live 432/528 Hz Audio Processor with Melda + TDR Plugins
+Real-time Python audio processor for 432/528 Hz tuning + Melda & TDR effects (VB-Cable + Voicemeeter)
 A real-time Python audio processing application that:Takes system audio via VB-Cable (or any virtual input)
 Applies pitch shifting to 432 Hz or 528 Hz tuning
 Chains multiple free/professional-grade effects (MeldaProduction free bundle + TDR Nova)
