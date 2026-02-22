@@ -2,13 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-banner = """
-    _   _____  _____  ____  ____  ____ 
-   / | / /   |/___ / / __ \/ __ \/ __ \\
-  /  |/ / /| |  |_ \/ / / / / / / / / /
- / /|  / ___ | __/ / /_/ / /_/ / /_/ / 
-/_/ |_/_/  |_/____/\____/\____/\____/  
-"""
+
 print(banner)
 
 # Audio Effects Player
